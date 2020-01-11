@@ -6,6 +6,11 @@ Don't let the old school look fool you. There are some carefully crafted visual 
 
 This clock will appeal to those who appreciate the accessibility features or enjoy the realistic look of an old school LCD display in combination with the cool new features of a smart clock device. This clock would not be appropriate for those with attention deficit disorders because there are several forms of motion being used.
 
+See it running on the web:
+https://raycardillo.github.io/flutter_clocks/new_old_school_clock/#/
+
+-----
+
 <img src='screenshot-dark.png' width='400'>
 
 <img src='screenshot-light.png' width='400'>
